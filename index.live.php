@@ -1,4 +1,12 @@
 <?php
+
+/**
+ * Mike Snus' Simple Virus Scanner
+ *
+ * snus@sitebuilding.ru
+ * sitebuilding.ru
+ */
+
 require '/usr/local/cpanel/php/cpanel.php';
 require 'src/Account.php';
 require 'src/hostname.php';
