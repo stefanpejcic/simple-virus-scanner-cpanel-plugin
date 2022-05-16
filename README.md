@@ -1,4 +1,4 @@
-# 🔴 imple Virus Scanner cPanel plugin
+# 🔴 Simple Virus Scanner cPanel plugin
 
 //////////// PATH IS HARDCODED /////////////
 
