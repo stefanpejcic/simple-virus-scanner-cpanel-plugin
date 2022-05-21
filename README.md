@@ -2,7 +2,7 @@
 
 //////////// PATH IS HARDCODED /////////////
 
-Simple virus scanner that scans files for php functions that are often used in malwares, gives them a score and ranks them.
+Simple virus scanner that scans files for php functions that are often used in malwares and gives them a score.
 
 <img src="https://raw.githubusercontent.com/stefanpejcic/simple-virus-scanner-cpanel-plugin/main/assets/img/screenshot.png"></img>
 
