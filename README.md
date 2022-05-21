@@ -8,9 +8,9 @@ Simple virus scanner that scans files for php functions that are often used in m
 
 
 </br>
-</hr>
+<hr>
 For advanced scanning check https://github.com/stefanpejcic/malware-scanner-cpanel-plugin
-</hr>
+<hr>
 </br>
 
 Based on  <a href="https://github.com/mSnus/simple-virus-scanner">mSnus / simple-virus-scanner</a>
