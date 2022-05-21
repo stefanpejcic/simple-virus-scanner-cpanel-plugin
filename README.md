@@ -1,4 +1,8 @@
-# 🔴 Simple Virus Scanner cPanel plugin
+# DEPRICATED, PLEASE USE https://github.com/stefanpejcic/malware-scanner-cpanel-plugin
+
+</hr>
+
+## 🔴 Simple Virus Scanner cPanel plugin
 
 //////////// PATH IS HARDCODED /////////////
 
