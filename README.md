@@ -7,6 +7,8 @@ Simple virus scanner that scans files for php functions that are often used in m
 <img src="https://raw.githubusercontent.com/stefanpejcic/simple-virus-scanner-cpanel-plugin/main/assets/img/screenshot.png"></img>
 
 
+
+</hr>
 For advanced scanning check https://github.com/stefanpejcic/malware-scanner-cpanel-plugin which has the following features:
 
 - detects cpanel user directory
@@ -15,5 +17,6 @@ For advanced scanning check https://github.com/stefanpejcic/malware-scanner-cpan
 - detailed info: description, MD5 hash, size, permissions, created/modified time, etc.
 - compatible with php 8.1
 
+</hr>
 
 Based on  <a href="https://github.com/mSnus/simple-virus-scanner">mSnus / simple-virus-scanner</a>
