@@ -1,4 +1,4 @@
-# DEPRICATED, PLEASE USE https://github.com/stefanpejcic/malware-scanner-cpanel-plugin
+# https://github.com/stefanpejcic/malware-scanner-cpanel-plugin
 
 </hr>
 
